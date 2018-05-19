@@ -7,4 +7,5 @@ def square_array(array)
     binding.pry
     new_array << (number ** 2)
   end
+  binding.pry
 end
